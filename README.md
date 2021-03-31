@@ -1,2 +1,2 @@
 # ifocop-game
-An Ifocop game to show you m yresume.
+An Ifocop game to show you my resume.
