@@ -1,2 +1,2 @@
 # ifocop-game
-An Ifocop game to show you my resume.
+Un jeu présentant mon CV pour IFOCOP. Fait en deux jours suite à une erreur de ma part après avoir commencé un jeu avec PhaserJS...
