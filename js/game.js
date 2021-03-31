@@ -145,7 +145,7 @@ if(positionX < 32 | positionX > 17 * 32 | positionY < 3*32 | positionY > 17*32 |
     ctx.fillStyle = "#FFFFFF";
     ctx.fillText("Game over", 175, 320);
     ctx.font = "100px Sans-serif";
-    setInterval(function () {window.location.reload()}, 2500);
+    setInterval(function () {window.location.reload()}, 2000);
     }
     snake.unshift(newStart);
     ctx.fillStyle = "#FFFFFF";
