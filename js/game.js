@@ -100,25 +100,25 @@ if (positionX == apple.x & positionY == apple.y){
 if (score == 2) {
     ctx.font = "50px Sans-serif";
     ctx.fillStyle = "#FFFFFF"
-    ctx.fillText("Autonome", 200, 56);
+    ctx.fillText("Node.JS", 200, 56);
 }
 
 if (score == 4) {
     ctx.font = "50px Sans-serif";
     ctx.fillStyle = "#FFFFFF"
-    ctx.fillText("Curieux", 200, 56);
+    ctx.fillText("Angular.JS", 200, 56);
 }
 
 if (score == 6) {
     ctx.font = "50px Sans-serif";
     ctx.fillStyle = "#FFFFFF"
-    ctx.fillText("Patient", 200, 56);
+    ctx.fillText("Express.JS", 200, 56);
 }
 
 if (score == 8) {
     ctx.font = "50px Sans-serif";
     ctx.fillStyle = "#FFFFFF"
-    ctx.fillText("Logique", 200, 56);
+    ctx.fillText("Ruby on Rails", 200, 56);
 }
 
 // Definition de l'ouverture dans un nouvel onglet du CV lorsque l'on a atteint 10 en score
