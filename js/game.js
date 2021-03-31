@@ -154,4 +154,4 @@ if(positionX < 32 | positionX > 17 * 32 | positionY < 3*32 | positionY > 17*32 |
 }
 
 // Definition de la vitesse du jeu
-let game = setInterval(draw,130);
+let game = setInterval(draw,120);
