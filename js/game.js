@@ -153,5 +153,5 @@ if(positionX < 32 | positionX > 17 * 32 | positionY < 3*32 | positionY > 17*32 |
     ctx.fillText(score,2*32,1.6*32);
 }
 
-// Definition de la vitesse du jeu
+// Definition de la vitesse du serpent
 let game = setInterval(draw,120);
